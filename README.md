@@ -3,8 +3,8 @@
 >⚡️ A collection of awesome things regarding Reaction Commerce
 
 - [Reaction Commerce](#reaction-commerce)
-- Adaptors(#adaptors)
-- Articles(#articles)
+- [Adaptors](#adaptors)
+- [Articles](#articles)
 
 ---
 
