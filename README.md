@@ -9,6 +9,7 @@
 ---
 
 ## Reaction Commerce
+Reaction Commerce is the first open source, real-time platform to combine the flexibility developers and designers want with the stability and support businesses need.
 
 ## Adaptors
 
