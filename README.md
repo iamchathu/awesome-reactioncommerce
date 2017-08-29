@@ -6,6 +6,7 @@
 - [Adaptors](#adaptors)
 - [Themes](#themes)
 - [Plugins](#plugins)
+    - [Payments](#payments)
 - [Articles](#articles)
 
 ---
@@ -18,6 +19,8 @@
 ## Themes
 
 ## Plugins
+
+### Payments
 
 ## Articles
 
