@@ -8,6 +8,7 @@
 - [Plugins](#plugins)
     - [Payments](#payments)
 - [Articles](#articles)
+- [Videos](#videos)
 
 ---
 
@@ -23,6 +24,9 @@
 ### Payments
 
 ## Articles
+
+## Videos
+- [Aaron Judd: Reaction Commerce & Launchdock.io -- August Devshop SF](https://www.youtube.com/watch?v=LCxLnQKjLGY) - Tech Talk @ Meteor Devshop SF.
 
 --- 
 **License**
