@@ -17,6 +17,11 @@
 ## Reaction Commerce
 [Reaction Commerce](https://reactioncommerce.com/) is the first open source, real-time platform to combine the flexibility developers and designers want with the stability and support businesses need.
 
+- [Website](https://reactioncommerce.com/) - Website of Reaction Commerce.
+- [Documentation](https://docs.reactioncommerce.com/) - Docs of Reaction Commerce.
+- [Forum](https://forums.reactioncommerce.com/) - Forum of Reaction Commerce.
+- [Gitter](https://gitter.im/reactioncommerce/home) - Gitter chat of Reaction Commerce.
+
 ## Adaptors
 
 ## Themes
