@@ -25,6 +25,9 @@ Reaction Commerce is the first open source, real-time platform to combine the fl
 - [Documentation](https://docs.reactioncommerce.com/) - Docs of Reaction Commerce.
 - [Forum](https://forums.reactioncommerce.com/) - Forum of Reaction Commerce.
 - [Gitter](https://gitter.im/reactioncommerce/home) - Gitter chat of Reaction Commerce.
+- [YouTube](https://www.youtube.com/reactioncommerce) - YouTube channel of Reaction Commerce.
+- [Docker](https://hub.docker.com/r/reactioncommerce/reaction/) - Docker repository of Reaction Commerce.
+
 
 ## Adaptors
 
@@ -38,7 +41,6 @@ Reaction Commerce is the first open source, real-time platform to combine the fl
 
 ## Videos
 - [Aaron Judd: Reaction Commerce & Launchdock.io - August Devshop SF](https://www.youtube.com/watch?v=LCxLnQKjLGY) - Tech Talk @ Meteor Devshop SF.
-
 --- 
 **License**
 
